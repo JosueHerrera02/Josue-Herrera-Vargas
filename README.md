@@ -14,7 +14,7 @@ I’m a cybersecurity learner focused on blue‑team defense, threat auditing, s
 - Other: Security Auditing, playbook comprehension, critical thinking, problem solving, teamwork, communication
 
 # Featured Projects
--Cybersecurity Portfolio - Hands‑on lab, write‑ups, and realistic defensive security auditing and exercises
+- Cybersecurity Portfolio: Hands‑on lab, write‑ups, and realistic defensive security auditing and exercises
 
 # My Learning Path & Goals
 - Strengthening SOC analyst skills: log analysis, detection engineering, IR
