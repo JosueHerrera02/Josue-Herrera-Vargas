@@ -15,6 +15,9 @@ I’m a cybersecurity learner focused on blue‑team defense, threat auditing, s
 
 # Featured Projects
 - Cybersecurity Portfolio: Hands‑on lab, write‑ups, and realistic defensive security auditing and exercises
+  <a href="https://github.com/JosueHerrera02/Security-Auditing-Lab" target="_blank">
+  Botium Toys Security Auditing Lab
+</a>
 
 # My Learning Path & Goals
 - Strengthening SOC analyst skills: log analysis, detection engineering, IR
